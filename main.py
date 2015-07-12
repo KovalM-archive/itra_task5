@@ -68,7 +68,40 @@ def delLastEl(s):
     return ans[:len(ans)-1]
 
 def genUsList():
-    print()
+    random.seed()
+    fileAnswer = open('/home/michail/itransition/python/task5_generic_data/data/ru/answer_ru.txt', 'w')
+    number = int(sys.argv[2])
+    answer=[]
+    firstName = getLines('/home/michail/itransition/python/task5_generic_data/data/us/first_name_us.txt')
+    secondName = getLines('/home/michail/itransition/python/task5_generic_data/data/us/second_name_us.txt')
+    cityList = getLines('/home/michail/itransition/python/task5_generic_data/data/us/indexandcity_us.txt')
+    streetList = getLines('/home/michail/itransition/python/task5_generic_data/data/us/street_us.txt')
+    i = 0
+    while i<number:
+        k1 = random.randint(0, len(firstName)-1)
+        k2 = random.randint(0, len(secondName)-1)
+        k4 = random.randint(0,len(cityList)-1)
+        k5 = random.randint(0,len(streetList)-1)
+        s=delLastEl(cityList[k4])
+        s1=s[:s.find(' ')]
+        s2=s[s.find(' ')+1:]
+        currentLine = delLastEl(firstName[k2])+' '\
+                      +delLastEl(secondName[k1])+', '\
+                      +s2+', '\
+                      +s1+', '\
+                      +delLastEl(streetList[k5])+', '\
+                      +str(random.randint(1, 30))+'\n'
+        answer.append(currentLine)
+        i+=1
+    answer=createErrors(answer, int(sys.argv[3]))
+    m=len(answer)
+    while m>0:
+        k=random.randint(0,m-1)
+        #fileAnswer.write(answer[k])
+        print(answer[k])
+        answer[k]=answer[m-1]
+        m-=1
+    fileAnswer.close()
 
 def genRuList():
     random.seed()
@@ -87,10 +120,14 @@ def genRuList():
         k3 = random.randint(0,len(thirdName)-1)
         k4 = random.randint(0,len(cityList)-1)
         k5 = random.randint(0,len(streetList)-1)
+        s=delLastEl(cityList[k4])
+        s1=s[:s.find(' ')]
+        s2=s[s.find(' ')+1:]
         currentLine = delLastEl(thirdName[k3])+' '\
                       +delLastEl(firstName[k1])+' '\
                       +delLastEl(secondName[k2])+', '\
-                      +delLastEl(cityList[k4])+', '\
+                      +s1+', '\
+                      +s2+', '\
                       +delLastEl(streetList[k5])+', '\
                       +str(random.randint(1,30))+'\n'
         answer.append(currentLine)
@@ -105,10 +142,14 @@ def genRuList():
         k3 = random.randint(0,len(thirdName)-1)
         k4 = random.randint(0,len(cityList)-1)
         k5 = random.randint(0,len(streetList)-1)
+        s=delLastEl(cityList[k4])
+        s1=s[:s.find(' ')]
+        s2=s[s.find(' ')+1:]
         currentLine = delLastEl(thirdName[k3])+' '\
                       +delLastEl(firstName[k1])+' '\
                       +delLastEl(secondName[k2])+', '\
-                      +delLastEl(cityList[k4])+', '\
+                      +s1+', '\
+                      +s2+', '\
                       +delLastEl(streetList[k5])+', '\
                       +str(random.randint(1,30))+'\n'
         answer.append(currentLine)
@@ -117,13 +158,72 @@ def genRuList():
     m=len(answer)
     while m>0:
         k=random.randint(0,m-1)
-        fileAnswer.write(answer[k])
+        #fileAnswer.write(answer[k])
+        print(answer[k])
         answer[k]=answer[m-1]
         m-=1
     fileAnswer.close()
 
 def genByList():
-    print()
+    random.seed()
+    fileAnswer = open('/home/michail/itransition/python/task5_generic_data/data/by/answer_by.txt', 'w')
+    number = int(sys.argv[2])
+    answer=[]
+    firstName = getLines('/home/michail/itransition/python/task5_generic_data/data/by/men/first_name_by_m.txt')
+    secondName = getLines('/home/michail/itransition/python/task5_generic_data/data/by/men/second_name_by_m.txt')
+    thirdName = getLines('/home/michail/itransition/python/task5_generic_data/data/by/men/third_name_by_m.txt')
+    cityList = getLines('/home/michail/itransition/python/task5_generic_data/data/by/indexandcity_by.txt')
+    streetList = getLines('/home/michail/itransition/python/task5_generic_data/data/by/street_by.txt')
+    i = 0
+    while i<number//2:
+        k1 = random.randint(0,len(firstName)-1)
+        k2 = random.randint(0,len(secondName)-1)
+        k3 = random.randint(0,len(thirdName)-1)
+        k4 = random.randint(0,len(cityList)-1)
+        k5 = random.randint(0,len(streetList)-1)
+        s=delLastEl(cityList[k4])
+        s1=s[:s.find(' ')]
+        s2=s[s.find(' ')+1:]
+        currentLine = delLastEl(thirdName[k3])+' '\
+                      +delLastEl(firstName[k1])+' '\
+                      +delLastEl(secondName[k2])+', '\
+                      +s2+', '\
+                      +s1+', '\
+                      +delLastEl(streetList[k5])+', '\
+                      +str(random.randint(1,30))+'\n'
+        answer.append(currentLine)
+        i+=1
+    firstName = getLines('/home/michail/itransition/python/task5_generic_data/data/by/women/first_name_by_w.txt')
+    secondName = getLines('/home/michail/itransition/python/task5_generic_data/data/by/women/second_name_by_w.txt')
+    thirdName = getLines('/home/michail/itransition/python/task5_generic_data/data/by/women/third_name_by_w.txt')
+    i = number//2
+    while i<number:
+        k1 = random.randint(0,len(firstName)-1)
+        k2 = random.randint(0,len(secondName)-1)
+        k3 = random.randint(0,len(thirdName)-1)
+        k4 = random.randint(0,len(cityList)-1)
+        k5 = random.randint(0,len(streetList)-1)
+        s=delLastEl(cityList[k4])
+        s1=s[:s.find(' ')]
+        s2=s[s.find(' ')+1:]
+        currentLine = delLastEl(thirdName[k3])+' '\
+                      +delLastEl(firstName[k1])+' '\
+                      +delLastEl(secondName[k2])+', '\
+                      +s2+', '\
+                      +s1+', '\
+                      +delLastEl(streetList[k5])+', '\
+                      +str(random.randint(1,30))+'\n'
+        answer.append(currentLine)
+        i+=1
+    answer=createErrors(answer, int(sys.argv[3]))
+    m=len(answer)
+    while m>0:
+        k=random.randint(0,m-1)
+        #fileAnswer.write(answer[k])
+        print(answer[k])
+        answer[k]=answer[m-1]
+        m-=1
+    fileAnswer.close()
 
 if not checkCorrectnessInput():
     print('incorrect input')
