@@ -1,0 +1,572 @@
+Amenia 58004
+Argusville 58005
+Arthur 58006
+Ayr 58007
+Barney 58008
+Blanchard 58009
+Casselton 58012
+Cayuga 58013
+Christine 58015
+Clifford 58016
+Cogswell 58017
+Colfax 58018
+Davenport 58021
+Enderlin 58027
+Erie 58029
+Fingal 58031
+Forman 58032
+Fort Ransom 58033
+Galesburg 58035
+Gardner 58036
+Grandin 58038
+Gwinner 58040
+Hankinson 58041
+Harwood 58042
+Havana 58043
+Hillsboro 58045
+Hope 58046
+Horace 58047
+Hunter 58048
+Kathryn 58049
+Kindred 58051
+Leonard 58052
+Lidgerwood 58053
+Lisbon 58054
+Luverne 58056
+Mcleod 58057
+Mantador 58058
+Mapleton 58059
+Milnor 58060
+Mooreton 58061
+Nome 58062
+Oriska 58063
+Pillsbury 58065
+Rutland 58067
+Sheldon 58068
+Stirum 58069
+Tower City 58071
+Valley City 58072
+Wahpeton 58074
+Wahpeton 58075
+Walcott 58077
+Wheatland 58079
+Wyndmere 58081
+Fargo 58104
+Fargo 58105
+Fargo 58106
+Fargo 58107
+Fargo 58108
+Fargo 58109
+Fargo 58121
+Fargo 58122
+Fargo 58124
+Fargo 58125
+Fargo 58126
+Grand Forks 58201
+Grand Forks 58202
+Grand Forks 58203
+Grand Forks Afb 58204
+Grand Forks Afb 58205
+Grand Forks 58206
+Grand Forks 58207
+Grand Forks 58208
+Adams 58210
+Aneta 58212
+Arvilla 58214
+Bathgate 58216
+Buxton 58218
+Caledonia 58219
+Cavalier 58220
+Crystal 58222
+Cummings 58223
+Dahlen 58224
+Drayton 58225
+Edinburg 58227
+Emerado 58228
+Fairdale 58229
+Finley 58230
+Fordville 58231
+Forest River 58233
+Gilby 58235
+Glasston 58236
+Grafton 58237
+Hamilton 58238
+Hannah 58239
+Hatton 58240
+Hensel 58241
+Hoople 58243
+Inkster 58244
+Langdon 58249
+Lankin 58250
+Larimore 58251
+Mcville 58254
+Maida 58255
+Manvel 58256
+Mayville 58257
+Mekinock 58258
+Michigan 58259
+Milton 58260
+Minto 58261
+Mountain 58262
+Neche 58265
+Niagara 58266
+Northwood 58267
+Osnabrock 58269
+Park River 58270
+Pembina 58271
+Petersburg 58272
+Pisek 58273
+Portland 58274
+Reynolds 58275
+Saint Thomas 58276
+Sharon 58277
+Thompson 58278
+Wales 58281
+Walhalla 58282
+Devils Lake 58301
+Agate 58310
+Alsen 58311
+Balta 58313
+Belcourt 58316
+Bisbee 58317
+Bottineau 58318
+Bremen 58319
+Brocket 58321
+Calvin 58323
+Cando 58324
+Churchs Ferry 58325
+Crary 58327
+Dunseith 58329
+Edmore 58330
+Egeland 58331
+Esmond 58332
+Fort Totten 58335
+Hampden 58338
+Hansboro 58339
+Harvey 58341
+Knox 58343
+Lakota 58344
+Lawton 58345
+Leeds 58346
+Maddock 58348
+Minnewaukan 58351
+Munich 58352
+Mylo 58353
+Nekoma 58355
+New Rockford 58356
+Oberon 58357
+Pekin 58361
+Penn 58362
+Perth 58363
+Rocklake 58365
+Rolette 58366
+Rolla 58367
+Rugby 58368
+Saint John 58369
+Saint Michael 58370
+Sarles 58372
+Sheyenne 58374
+Starkweather 58377
+Tokio 58379
+Tolna 58380
+Warwick 58381
+Webster 58382
+Willow City 58384
+Wolford 58385
+York 58386
+Jamestown 58401
+Jamestown 58402
+Jamestown 58405
+Ashley 58413
+Berlin 58415
+Binford 58416
+Bowdon 58418
+Buchanan 58420
+Carrington 58421
+Cathay 58422
+Chaseley 58423
+Cleveland 58424
+Cooperstown 58425
+Beverly Hills 90210
+Los Angeles 90002
+Los Angeles 90003
+Los Angeles 90004
+Los Angeles 90006
+Los Angeles 90012
+Los Angeles 90017
+Los Angeles 90018
+Los Angeles 90020
+Los Angeles 90024
+Los Angeles 90025
+Los Angeles 90026
+Los Angeles 90027
+Los Angeles 90029
+Los Angeles 90031
+Los Angeles 90034
+Los Angeles 90035
+Los Angeles 90036
+Los Angeles 90038
+Los Angeles 90039
+Los Angeles 90041
+Los Angeles 90045
+Los Angeles 90046
+Los Angeles 90048
+Los Angeles 90049
+Los Angeles 90057
+Los Angeles 90064
+Los Angeles 90067
+Los Angeles 90071
+Bell 90201
+Beverly Hills 90212
+Culver City 90230
+Redondo Beach 90277
+Marina Del Rey 90292
+Santa Monica 90401
+Santa Monica 90403
+Santa Monica 90404
+Santa Monica 90405
+Torrance 90503
+Buena Park 90620
+Long Beach 90802
+Long Beach 90804
+Arcadia 91006
+Pasadena 91105
+Pasadena 91107
+Burbank 91505
+Chula Vista 91910
+Chula Vista 91911
+Chula Vista 91913
+Chula Vista 91914
+La Mesa 91941
+Spring Valley 91977
+Carlsbad 92008
+Carlsbad 92009
+El Cajon 92019
+El Cajon 92020
+Escondido 92025
+Escondido 92026
+Escondido 92027
+La Jolla 92037
+Oceanside 92054
+Oceanside 92056
+San Marcos 92069
+San Marcos 92078
+Vista 92083
+San Diego 92101
+San Diego 92103
+San Diego 92108
+San Diego 92109
+San Diego 92110
+San Diego 92121
+Anaheim 92802
+Monterey 93940
+San Francisco 94102
+San Francisco 94103
+San Francisco 94105
+San Francisco 94107
+San Francisco 94108
+San Francisco 94109
+San Francisco 94111
+Sacramento 95814
+Los Angeles 90001
+Los Angeles 90005
+Los Angeles 90007
+Los Angeles 90008
+Los Angeles 90009
+Los Angeles 90010
+Los Angeles 90011
+Los Angeles 90013
+Los Angeles 90014
+Los Angeles 90015
+Los Angeles 90016
+Los Angeles 90019
+Los Angeles 90021
+Los Angeles 90022
+Los Angeles 90023
+Los Angeles 90028
+Los Angeles 90030
+Los Angeles 90032
+Los Angeles 90033
+Los Angeles 90037
+Los Angeles 90040
+Los Angeles 90042
+Los Angeles 90043
+Los Angeles 90044
+Los Angeles 90047
+Los Angeles 90050
+Los Angeles 90051
+Los Angeles 90052
+Los Angeles 90053
+Los Angeles 90054
+Los Angeles 90055
+Los Angeles 90056
+Los Angeles 90058
+Los Angeles 90059
+Los Angeles 90060
+Los Angeles 90061
+Los Angeles 90062
+Los Angeles 90063
+Los Angeles 90065
+Los Angeles 90066
+Los Angeles 90068
+West Hollywood 90069
+Los Angeles 90070
+Los Angeles 90072
+Los Angeles 90073
+Los Angeles 90074
+Los Angeles 90075
+Los Angeles 90076
+Los Angeles 90077
+Los Angeles 90079
+Los Angeles 90080
+Los Angeles 90081
+Los Angeles 90082
+Los Angeles 90083
+Los Angeles 90084
+Los Angeles 90086
+Los Angeles 90087
+Los Angeles 90088
+Los Angeles 90089
+Los Angeles 90091
+Los Angeles 90093
+Los Angeles 90094
+Los Angeles 90095
+Los Angeles 90096
+Los Angeles 90101
+Los Angeles 90102
+Los Angeles 90174
+Los Angeles 90185
+Bell Gardens 90202
+Beverly Hills 90209
+Beverly Hills 90211
+Beverly Hills 90213
+Compton 90220
+Compton 90221
+Compton 90223
+Compton 90224
+Culver City 90231
+Culver City 90232
+Culver City 90233
+Downey 90239
+Downey 90240
+Downey 90241
+Downey 90242
+El Segundo 90245
+Gardena 90247
+Gardena 90248
+Gardena 90249
+Hawthorne 90250
+Hawthorne 90251
+Hermosa Beach 90254
+Huntington Park 90255
+Lawndale 90260
+Lawndale 90261
+Lynwood 90262
+Malibu 90263
+Malibu 90264
+Malibu 90265
+Manhattan Beach 90266
+Manhattan Beach 90267
+Maywood 90270
+Pacific Palisades 90272
+Palos Verdes Peninsula 90274
+Rancho Palos Verdes 90275
+Redondo Beach 90278
+South Gate 90280
+Topanga 90290
+Venice 90291
+Playa Del Rey 90293
+Venice 90294
+Marina Del Rey 90295
+Playa Del Rey 90296
+Inglewood 90301
+Inglewood 90302
+Inglewood 90303
+Inglewood 90304
+Inglewood 90305
+Inglewood 90306
+Inglewood 90307
+Inglewood 90308
+Santa Fe 87501
+Los Lunas 87031
+Albuquerque 87102
+Albuquerque 87104
+Albuquerque 87106
+Albuquerque 87107
+Albuquerque 87109
+Albuquerque 87110
+Albuquerque 87123
+Gallup 87301
+Farmington 87401
+Santa Fe 87505
+Los Alamos 87544
+Taos 87571
+Las Vegas 87701
+Socorro 87801
+Las Cruces 88001
+Roswell 88201
+Carlsbad 88220
+Hobbs 88240
+Alamogordo 88310
+Ruidoso 88345
+Tucumcari 88401
+Algodones 87001
+Belen 87002
+Bernalillo 87004
+Bluewater 87005
+Bosque 87006
+Casa Blanca 87007
+Cedar Crest 87008
+Cedarvale 87009
+Cerrillos 87010
+Claunch 87011
+Coyote 87012
+Cuba 87013
+Cubero 87014
+Edgewood 87015
+Estancia 87016
+Gallina 87017
+Counselor 87018
+Grants 87020
+Milan 87021
+Isleta 87022
+Jarales 87023
+Jemez Pueblo 87024
+Jemez Springs 87025
+Laguna 87026
+La Jara 87027
+Lindrith 87029
+Moriarty 87035
+Mountainair 87036
+Nageezi 87037
+New Laguna 87038
+Paguate 87040
+Pena Blanca 87041
+Peralta 87042
+Placitas 87043
+Ponderosa 87044
+Prewitt 87045
+Regina 87046
+Sandia Park 87047
+Corrales 87048
+San Fidel 87049
+San Rafael 87051
+Santo Domingo Pueblo 87052
+San Ysidro 87053
+Stanley 87056
+Tijeras 87059
+Tome 87060
+Torreon 87061
+Veguita 87062
+Willard 87063
+Youngsville 87064
+Bosque Farms 87068
+Clines Corners 87070
+Cochiti Pueblo 87072
+Cochiti Lake 87083
+Albuquerque 87101
+Albuquerque 87103
+Albuquerque 87105
+Albuquerque 87108
+Albuquerque 87111
+Albuquerque 87112
+Albuquerque 87113
+Albuquerque 87114
+Kirtland Afb 87117
+Albuquerque 87119
+Albuquerque 87120
+Albuquerque 87121
+Albuquerque 87122
+Rio Rancho 87124
+Albuquerque 87125
+Albuquerque 87131
+Albuquerque 87153
+Albuquerque 87154
+Albuquerque 87158
+Rio Rancho 87174
+Albuquerque 87176
+Albuquerque 87181
+Albuquerque 87184
+Albuquerque 87185
+Albuquerque 87187
+Albuquerque 87190
+Albuquerque 87191
+Albuquerque 87192
+Albuquerque 87193
+Albuquerque 87194
+Albuquerque 87195
+Albuquerque 87196
+Albuquerque 87197
+Albuquerque 87198
+Albuquerque 87199
+Gallup 87302
+Gallup 87305
+Brimhall 87310
+Church Rock 87311
+Continental Divide 87312
+Crownpoint 87313
+Fence Lake 87315
+Fort Wingate 87316
+Gamerco 87317
+Mentmore 87319
+Mexican Springs 87320
+Ramah 87321
+Rehoboth 87322
+Thoreau 87323
+Tohatchi 87325
+Vanderwagen 87326
+Zuni 87327
+Navajo 87328
+Jamestown 87347
+Pinehill 87357
+Sheep Springs 87364
+Smith Lake 87365
+Yatahey 87375
+Farmington 87402
+Aztec 87410
+Blanco 87412
+Bloomfield 87413
+Flora Vista 87415
+Fruitland 87416
+Kirtland 87417
+La Plata 87418
+Navajo Dam 87419
+Shiprock 87420
+Waterflow 87421
+Newcomb 87455
+Sanostee 87461
+Farmington 87499
+Santa Fe 87502
+Santa Fe 87503
+Santa Fe 87504
+Santa Fe 87506
+Santa Fe 87509
+Abiquiu 87510
+Alcalde 87511
+Amalia 87512
+Arroyo Hondo 87513
+Arroyo Seco 87514
+Canjilon 87515
+Canones 87516
+Carson 87517
+Cebolla 87518
+Cerro 87519
+Chama 87520
+Chamisal 87521
+Chimayo 87522
+Cordova 87523
+Costilla 87524
+Taos Ski Valley 87525
+Dixon 87527
+Dulce 87528
+El Prado 87529
+El Rito 87530
+Embudo 87531
+Espanola 87532
+Espanola 87533
+Glorieta 87535
+Hernandez 87537
+Ilfeld 87538
+La Madera 87539
+Lamy 87540
+Llano 87543
